@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Python%20and%20Power%20BI%20Analysis&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Week%203%20Data%20Analyst%20Internship%20Task&descAlignY=60&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Supply%20Chain%20Analytics&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20Pandas%20%7C%20Power%20BI%20%7C%20Week%203%20Internship%20Project&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Building+KPI+Dashboards+with+Python+%26+Pandas;Advanced+Data+Analysis+%26+Business+Insights;Interactive+Data+Visualization+in+Power+BI;Logic+Stack+Data+Analyst+Internship+-+Week+3;Retail+Sales+Analytics+%7C+1%2C000+Transactions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Supply+Chain+Analytics+with+Python+%26+Pandas;Data+Cleaning+%7C+EDA+%7C+Business+Insights;Shipment+Performance+%26+Delivery+Trend+Analysis;Vendor+Efficiency+%26+Logistics+Analytics;Interactive+Power+BI+Dashboard;Logic+Stack+Data+Analyst+Internship+-+Week+3" />
 
 <br/>
 
-</div
+</div>
 
 
 ----------------------
