@@ -52,7 +52,7 @@ The project involves working with a real-world SCMS (Supply Chain Management Sys
 |---|---|
 | 🏢 **Company** | Logic Stack |
 | 👨‍💻 **Role** | Data Analyst Intern |
-| 📅 ** Task** |     Task 03 |
+| 📅 **Task** |     Task 03 |
 | 🔗 **Builds On** | [Week 1 — Excel Analysis](https://github.com/YasirAwan4831/week-1-retail-sales-excel-analysis) · [Week 2 — Excel + Power BI](https://github.com/YasirAwan4831/week-2-excel-powerbi-sales-dashboard) |
 | 💻 **Project Type** | Python EDA + Power BI Dashboard |
 | ⏱️ **Duration** | 7 Days |
@@ -89,6 +89,19 @@ The project involves working with a real-world SCMS (Supply Chain Management Sys
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> | Version control and portfolio |
 
 </div>
+
+---
+
+## ✨ Repository Features
+
+- Professional folder structure
+- Jupyter Notebook analysis
+- Cleaned dataset
+- Power BI Dashboard
+- Python visualizations
+- Business insights
+- GitHub ready documentation
+- Portfolio friendly project
 
 ---
 
@@ -141,6 +154,94 @@ week-3-python-powerbi-supply-chain-analytics/
 ├── LICENSE
 └── README.md
 ```
+---
+
+## Project Architecture
+
+```
+    🏗️ Project Architecture
+
+Raw Dataset (CSV)
+
+↓
+
+Python (Pandas)
+
+↓
+
+Data Cleaning
+
+↓
+
+EDA & Grouping
+
+↓
+
+Matplotlib Charts
+
+↓
+
+Cleaned CSV
+
+↓
+
+Power BI Dashboard
+
+↓
+
+Business Insights
+
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+```
+git clone https://github.com/YasirAwan4831/week-3-python-powerbi-supply-chain-analytics
+```
+
+Go to project
+
+```
+cd week-3-python-powerbi-supply-chain-analytics
+```
+
+Install libraries
+
+```
+pip install pandas matplotlib numpy
+
+```
+
+Run
+
+```
+Open notebooks/supply_chain_analysis.ipynb
+```
+
+---
+
+## 📦 Requirements
+
+```
+Python 3.14
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Jupyter Notebook
+
+Power BI Desktop
+
+VS Code
+
+```
+
 
 ---
 
@@ -376,6 +477,23 @@ The most significant challenge in this project was **setting up and configuring 
 
 ---
 
+
+## 🛠️ Skills Demonstrated
+
+| Skills |
+|---------|
+| 🧹 Data Cleaning |
+| 🔄 Data Wrangling |
+| 📊 Exploratory Data Analysis (EDA) |
+| 📈 Business Intelligence |
+| 📉 Dashboard Design |
+| 🐍 Python Programming |
+| 💼 Power BI |
+| 🧠 Problem Solving |
+| 🌐 Git & GitHub |
+---
+
+
 ##  Future Improvements
 
 - 🔄 Automate the cleaning pipeline using a reusable Python script (`clean.py`)
@@ -394,7 +512,13 @@ The most significant challenge in this project was **setting up and configuring 
 |---|---|---|
 | **Week 1** | [week-1-retail-sales-excel-analysis](https://github.com/YasirAwan4831/week-1-retail-sales-excel-analysis) | Excel · Data Cleaning · Formulas · Charts |
 | **Week 2** | [week-2-excel-powerbi-sales-dashboard](https://github.com/YasirAwan4831/week-2-excel-powerbi-sales-dashboard) | Pivot Tables · KPIs · Power BI Dashboard |
-| **Week 3** | `week-3-python-powerbi-supply-chain-analytics` *(current)* | Python · EDA · Supply Chain Analytics · Power BI |
+| **Week 3** | [week-3-python-powerbi-supply-chain-analytics` *(current)* ](https://github.com/YasirAwan4831/week-3-python-powerbi-supply-chain-analytics) | Python · EDA · Supply Chain Analytics · Power BI |
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to Logic Stack for providing this internship opportunity and real-world datasets that helped strengthen my practical data analytics skills.
 
 ---
 
@@ -402,18 +526,21 @@ The most significant challenge in this project was **setting up and configuring 
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Muhammad+Yasir;Full+Stack+Web+Developer;Data+Analyst;AI+%26+Automation+Enthusiast;React+%7C+Node.js+%7C+MongoDB" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Muhammad+Yasir;Full+Stack+Web+Developer;Data+Analyst;AI+%26+Automation+Enthusiast;React+%7C+Node.js+%7C+MongoDB" />
 
 <br/>
 
-**Muhammad Yasir** is a **Full Stack Web Developer, Data Analyst and AI Automation Enthusiast** passionate about building scalable web applications, data-driven solutions, automation systems and modern software products with clean architecture and outstanding user experience.
+**[Muhammad Yasir](https://yasirawan4831.github.io/futuristic-links-dashboard/)** is a **Full Stack Web Developer, Data Analyst and AI Automation Enthusiast** passionate about building scalable web applications, data-driven solutions, automation systems and modern software products with clean architecture and outstanding user experience.
 
 <br/>
+
+### 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAwan4831)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirawan4831)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://yasirawaninfo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasirawaninfo.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:my3154831409@gmail.com)
+
 
 <br/>
 
@@ -423,13 +550,14 @@ The most significant challenge in this project was **setting up and configuring 
 
 ---
 
-### ⭐ Support This Project
+## ⭐ Support This Project
 
-Please consider giving this repository a **Star** if you found it helpful.
+If you found this project useful or inspiring, consider giving it a **⭐ Star** on GitHub. Your support motivates me to continue building and sharing high-quality open-source projects.
 
 <br/>
 
-[![⭐ Star This Repository](https://img.shields.io/badge/⭐%20Star%20This%20Repository-FFD700?style=for-the-badge&logo=starship&logoColor=black)](https://github.com/YasirAwan4831)
+
+[![⭐ Star This Repository](https://img.shields.io/badge/⭐%20Star%20This%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAwan4831)
 
 <br/>
 
