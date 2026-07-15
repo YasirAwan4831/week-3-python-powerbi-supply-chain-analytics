@@ -570,3 +570,7 @@ Full Stack Web Developer • Data Analyst • AI & Automation Enthusiast • Ope
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BBDEFB,25:64B5F6,50:2196F3,75:1976D2,100:0D47A1&height=180&section=footer&text=Thank%20You%20for%20Visiting&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Supply%20Chain%20Analytics&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20Pandas%20%7C%20Power%20BI%20%7C%20Week%203%20Internship%20Project&descAlignY=60&descSize=20&animation=fadeIn"/>
