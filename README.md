@@ -457,6 +457,7 @@ The most significant challenge in this project was **setting up and configuring 
 | 🟠 Library Compatibility | Version conflicts between installed packages required environment-level fixes |
 | 🟡 Jupyter Environment | `.ipynb_checkpoints` folder conflicts and notebook state issues during development |
 | 🟢 Resolution | All issues resolved through systematic troubleshooting — environment now fully stable |
+ **LinkedIn Post:** |  https://www.linkedin.com/posts/yasirawan4831_supplyabrchain-challenges-jupyterabrnotebook-share-7482779445477400576-UQvZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFyt-1EB5XKMOcxukQpAzVmx6pIKiXdCz64
 
 > 💬 **Takeaway:** Debugging environment issues is a real-world data analyst skill. Successfully resolving these problems independently added significant practical value beyond the analysis itself.
 
